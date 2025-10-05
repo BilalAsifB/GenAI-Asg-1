@@ -44,7 +44,7 @@ You’ll explore how these models work, implement simplified versions, and analy
 ---
 
 ### 4. Example Exercises (20 Points)
-- Complete **Examples 2-1 to 2.16** as provided in the course material.  
+- Complete **Examples 2-1 to 2.16** as provided in the course material (Generative Deep Learning - David Foster).  
 
 ---
 
